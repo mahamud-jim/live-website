@@ -7,3 +7,20 @@
     cursor: pointer;
  
 }
+.container{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: row-reverse;
+}
+.box{
+   background-color: red;
+    padding: 20px;
+    width: 110px;
+}
+.box2{
+    background-color: darkred;
+}
+.box3{
+    background-color: lightcoral;
+}
